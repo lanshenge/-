@@ -1,6 +1,5 @@
 # 区块链小白书
 
-（懒神哥http://lixiaolai.com）（着）＆copy; 2019年
 
 -----
 
