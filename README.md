@@ -1,6 +1,6 @@
 # 区块链小白书
 
-[李笑来](http://lixiaolai.com)（著）&copy; 2019
+（懒神哥http://lixiaolai.com）（着）＆copy; 2019年
 
 -----
 
