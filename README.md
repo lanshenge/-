@@ -195,7 +195,7 @@
 
 iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
 
-![](images/miniwallet.png)
+![](images/999.png)
 
 在 Mixin 里提供 OTC 服务的是 exin，机器人 ID：7000101276。
 
