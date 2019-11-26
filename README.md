@@ -197,7 +197,6 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 
 ![](images/188.png)
 
-
 你也可以到 [https://big.one](https://big.one) 或者 [https://b1.run](https://b1.run)，这是国内老牌交易所云币团队打造的有信誉保障的区块链数字资产交易所，可以使用 USDT 购买比特币，它也有 [OTC 服务](https://otc.b1.run/trade)。另外，Big.One 的 Mixin 大群 ID 是：*7000101910*。
 
 再次需要提醒风险：
