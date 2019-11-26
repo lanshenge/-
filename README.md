@@ -319,7 +319,7 @@ dPoS（[Delegated Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake#D
 
 所以，参与有杠杆的合约交易是你个人的选择，但有两个建议很重要：
 > 1. 不要只做期货； 
-> 2. 选择靠谱的不作恶的交易所，比如 OTCBTC [下载地址](https://otcbtc.io/referrals/U154166749)……
+> 2. 选择靠谱的不作恶的交易所。
 
 
 
