@@ -185,18 +185,18 @@
 以下排行是根据币圈交易者口碑，业界专家及国际监管机构评估作出的2019全球主流比特币交易平台，包括国内知名度较高的火币，okex，币安，以及香港/日本等知名交易所
 
 交易所下载地址：
+
 > * 免翻墙
-
->   * BTCBTC:[下载地址](https://otcbtc.io/referrals/U154166749)
->   * 火币:[下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35)
->   * 币安:[下载地址](www.binance-cn.com/cn/register?ref=QWSC1341)
->   * bit-z:[下载地址](https://u.bitz.top/register?invite_code=3413355&nsukey=YGrDWyTo5U5JYBfywm5IbBhY50T3p%2Bok%2FlzoKHU0LMz6tnuXsA9EZN1RhuR0GSzdnjaYSNmPNBrCCbI%2F%2BR8MlOD4TrYi1mvBSn%2BJS07C6ZAhUQw814xICEDMu6wIqXdIDJCnoPMf259NFw5nYxDF6ihOEmORhD0w9WupyD%2FLnjlce7J5Iy3%2FxxxgOHGAbw7s6PMizX6RwgoQLGPMEsk2AQ%3D%3D)
-
+>   * OTCBTC[下载地址](https://otcbtc.io/referrals/U154166749
+>   * 火币[下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35)
+>   * 币安[下载地址](www.binance-cn.com/cn/register?ref=QWSC1341)
+>   * Bit-z[下载地址](https://u.bitz.top/register?invite_code=3413355&nsukey=YGrDWyTo5U5JYBfywm5IbBhY50T3p%2Bok%2FlzoKHU0LMz6tnuXsA9EZN1RhuR0GSzdnjaYSNmPNBrCCbI%2F%2BR8MlOD4TrYi1mvBSn%2BJS07C6ZAhUQw814xICEDMu6wIqXdIDJCnoPMf259NFw5nYxDF6ihOEmORhD0w9WupyD%2FLnjlce7J5Iy3%2FxxxgOHGAbw7s6PMizX6RwgoQLGPMEsk2AQ%3D%3D)
 
 > * 需翻墙
 
->   * okex:[下载地址](https://www.okex.com/account/register?flag=activity&channelId=1852196)
->   * zb:[下载地址](https://vip.zbex3.com/user/register?recommendCode=t50ygb)
+>   * okex[下载地址](https://www.okex.com/account/register?flag=activity&channelId=1852196)
+>   *zb [下载地址](https://vip.zbex3.com/user/register?recommendCode=t50ygb)
+
 
 ![](images/188.png)
 
