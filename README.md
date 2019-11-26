@@ -189,7 +189,9 @@
 
 > *OTCBTC:[下载地址](https://otcbtc.io/referrals/U154166749）
 
-> *火币:[下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35）
+
+
+>   * 火币:[下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35)
 
 > * 需翻墙
 >   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
