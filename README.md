@@ -187,21 +187,18 @@
 交易所下载地址：
 > * 免翻墙
 
-> *OTCBTC:[下载地址](https://otcbtc.io/referrals/U154166749）
-
-
-
+>   * BTCBTC:[下载地址](https://otcbtc.io/referrals/U154166749)
 >   * 火币:[下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35)
+>   * 币安:[下载地址](www.binance-cn.com/cn/register?ref=QWSC1341)
+>   * bit-z:[下载地址](https://u.bitz.top/register?invite_code=3413355&nsukey=YGrDWyTo5U5JYBfywm5IbBhY50T3p%2Bok%2FlzoKHU0LMz6tnuXsA9EZN1RhuR0GSzdnjaYSNmPNBrCCbI%2F%2BR8MlOD4TrYi1mvBSn%2BJS07C6ZAhUQw814xICEDMu6wIqXdIDJCnoPMf259NFw5nYxDF6ihOEmORhD0w9WupyD%2FLnjlce7J5Iy3%2FxxxgOHGAbw7s6PMizX6RwgoQLGPMEsk2AQ%3D%3D)
+
 
 > * 需翻墙
->   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
->   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
-iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
+>   * okex:[下载地址](https://www.okex.com/account/register?flag=activity&channelId=1852196)
+>   * zb:[下载地址](https://vip.zbex3.com/user/register?recommendCode=t50ygb)
 
 ![](images/188.png)
-
-你也可以到 [https://big.one](https://big.one) 或者 [https://b1.run](https://b1.run)，这是国内老牌交易所云币团队打造的有信誉保障的区块链数字资产交易所，可以使用 USDT 购买比特币，它也有 [OTC 服务](https://otc.b1.run/trade)。另外，Big.One 的 Mixin 大群 ID 是：*7000101910*。
 
 再次需要提醒风险：
 
