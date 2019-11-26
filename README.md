@@ -187,16 +187,16 @@
 交易所下载地址：
 
 > * 免翻墙
->   * OTCBTC[下载地址](https://otcbtc.io/referrals/U154166749
->   * 火币[下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35)
+
+>   * OTCBTC [下载地址](https://otcbtc.io/referrals/U154166749)
+>   * 火币 [下载地址](https://www.huobi.io/topic/invited/?invite_code=yji35)
 >   * 币安[下载地址](www.binance-cn.com/cn/register?ref=QWSC1341)
 >   * Bit-z[下载地址](https://u.bitz.top/register?invite_code=3413355&nsukey=YGrDWyTo5U5JYBfywm5IbBhY50T3p%2Bok%2FlzoKHU0LMz6tnuXsA9EZN1RhuR0GSzdnjaYSNmPNBrCCbI%2F%2BR8MlOD4TrYi1mvBSn%2BJS07C6ZAhUQw814xICEDMu6wIqXdIDJCnoPMf259NFw5nYxDF6ihOEmORhD0w9WupyD%2FLnjlce7J5Iy3%2FxxxgOHGAbw7s6PMizX6RwgoQLGPMEsk2AQ%3D%3D)
 
 > * 需翻墙
 
 >   * okex[下载地址](https://www.okex.com/account/register?flag=activity&channelId=1852196)
->   *zb [下载地址](https://vip.zbex3.com/user/register?recommendCode=t50ygb)
-
+>   * zb [下载地址](https://vip.zbex3.com/user/register?recommendCode=t50ygb)
 
 ![](images/188.png)
 
@@ -318,9 +318,9 @@ dPoS（[Delegated Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake#D
 参与期货交易还有另外一个巨大的风险，那就是交易所可能作恶。这非常可怕，因为你的仓位对交易所来说是透明的，在巨大的利益面前，有些交易所或者交易所内部的工作人员会做 “扎针” —— 就是操纵市场价格到恰好能让你爆仓的地步而后恢复价格…… 很多人明明知道自己是怎样吃亏的，却压根找不到可以说理的地方。
 
 所以，参与有杠杆的合约交易是你个人的选择，但有两个建议很重要：
+> 1. 不要只做期货； 
+> 2. 选择靠谱的不作恶的交易所，比如 OTCBTC [下载地址](https://otcbtc.io/referrals/U154166749)……
 
-> 1. 不要只做期货；
-> 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
 
 
 
